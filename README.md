@@ -7,7 +7,7 @@
 
 <p align="center">- 👨‍💻 All of my projects are available at [https://github.com/jorlar?tab=repositories](https://github.com/jorlar?tab=repositories)</p>
 
-<p align="center">- 📫 How to reach me post@jornlarsen.no</p>
+<p align="center">- 📫 How to reach me jorn.larsen@tvela.no</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
